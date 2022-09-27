@@ -1,0 +1,32 @@
+-Вход за Администраторската част:
+ -- http://ecedu.fmi-plovdiv.org/stu1801561005/opencart/admin
+     Име: user1
+     Парола: user1dummypass4
+
+-Магазин:
+ -- http://ecedu.fmi-plovdiv.org/stu1801561005/opencart
+ -- Профил в магазина
+    Име: georgi14@abv.bg
+    Парола: 123456789
+
+    Име: ivanka94@gmail.com
+    Парола: 123456789
+
+-Вход в PayPal
+ -- https://www.paypal.com/signin?intent=developer&returnUri=https%3A%2F%2Fdeveloper.paypal.com%2Fdeveloper%2Faccounts
+    Име: online.shop@gmail.con
+    Парола: 147258369
+
+-Вход в Sandbox
+ -- https://www.sandbox.paypal.com/signin
+    ---Бизнес профил
+       Име: online.shop@gmail.con
+       Парола: 123456789
+    ---Клиентски профил
+       Име: ivanka94_personal@gmail.com
+       Парола: 123456789
+
+-Вход в Revive
+ -- http://ecedu.fmi-plovdiv.org/stu1801561005/revive
+    Име: user1
+    Парола: user1dummypass4
